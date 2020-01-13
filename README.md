@@ -29,6 +29,7 @@ A curated list of valuable research papers related to marketing content(suggeste
 ## classification
 
 - Kim, H, S., Bak, Y., & Lee, J.,(2019) A Personalized Recommendation System Using Machine Learning for Performing Arts Genre. Information Systems Review, 21(4).(written in Korean) [link](https://www.earticle.net/Article/A365413)
+- Lee, Y., & Kim, K. J. (2013). Product recommender systems using multi-model ensemble techniques. Journal of Intelligence and Information Systems, 19(2), 39-54.(written in Korean) [link](http://ocean.kisti.re.kr/downfile/volume/kiiss/JJSHBB/2013/v19n2/JJSHBB_2013_v19n2_39.pdf)
 
 
 ## qualitative research
