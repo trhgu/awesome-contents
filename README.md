@@ -26,6 +26,10 @@ A curated list of valuable research papers related to marketing content(suggeste
 
 - Nevid, J. S., & Pastva, A. (2014). “I'm a Mac” versus “I'm a PC”: Personality Differences between Mac and PC Users in a College Sample. Psychology & Marketing, 31(1), 31-37.
 
+### classification
+
+- Kim, H, S., Bak, Y., & Lee, J.,(2019) A Personalized Recommendation System Using Machine Learning for Performing Arts Genre. Information Systems Review, 21(4).(written in Korean)
+
 
 ## qualitative research
 - Markley Rountree, M., & Davis, L. (2011). A dimensional qualitative research approach to understanding medically unnecessary aesthetic surgery. Psychology & Marketing, 28(10), 1027-1043.
