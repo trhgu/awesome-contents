@@ -27,6 +27,9 @@ A curated list of valuable research papers related to marketing content(suggeste
 - Nevid, J. S., & Pastva, A. (2014). “I'm a Mac” versus “I'm a PC”: Personality Differences between Mac and PC Users in a College Sample. Psychology & Marketing, 31(1), 31-37.
 
 ## prediction
+### regression
+- Park, J., & Park, S. (2017). A Study on Prediction of Attendance in Korean Baseball League Using Artificial Neural Network. KIPS Transactions on Software and Data Engineering, 6(12), 12.(written in Korean)[link](https://pdfs.semanticscholar.org/55bd/8985aa213c4fc5328578bf89935442770f9a.pdf)
+
 ### classification
 
 - Kim, H, S., Bak, Y., & Lee, J.,(2019) A Personalized Recommendation System Using Machine Learning for Performing Arts Genre. Information Systems Review, 21(4).(written in Korean) [link](https://www.earticle.net/Article/A365413)
